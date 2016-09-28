@@ -1,0 +1,24 @@
+﻿body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+}
+
+p {
+    font-family: Arial;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li {
+    font-family: Arial;
+    text-align: center;
+}
+
+li::first-letter {
+    font-size:24px;
+}
